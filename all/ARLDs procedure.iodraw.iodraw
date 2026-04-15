@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-35" value="COPD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="p1wfFmktk1Te3uoc5Mjy-49" vertex="1">
-          <mxGeometry x="77" y="113" width="53" height="34.02" as="geometry" />
+          <mxGeometry x="41.75" y="113" width="53" height="34.02" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-36" value="Age related lung disease" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="p1wfFmktk1Te3uoc5Mjy-49" vertex="1">
           <mxGeometry x="130" y="61.55" width="270" height="30.93" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="13" y="58.46" width="110.5" height="34.02" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-3" value="PAH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="p1wfFmktk1Te3uoc5Mjy-49">
-          <mxGeometry x="-27" y="118" width="110.5" height="34.02" as="geometry" />
+          <mxGeometry x="196" y="113" width="53.5" height="34.02" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-53" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="60" y="606" width="530" height="550" as="geometry" />
