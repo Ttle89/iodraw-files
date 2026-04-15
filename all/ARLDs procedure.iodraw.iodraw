@@ -345,7 +345,7 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="58.25" y="620" width="661.75" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-55" target="p1wfFmktk1Te3uoc5Mjy-60">
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-55" target="p1wfFmktk1Te3uoc5Mjy-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-55" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -379,9 +379,6 @@
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-66" value="Prognosis&amp;nbsp;Assessment&lt;div&gt;Mixed-effects model,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kaplan-Meier survival curve,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Log-rank test&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="338.25" y="930" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-70" value="baseline (243)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="198.25" y="680" width="98.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-66" target="p1wfFmktk1Te3uoc5Mjy-77" edge="1">
           <mxGeometry relative="1" as="geometry">
