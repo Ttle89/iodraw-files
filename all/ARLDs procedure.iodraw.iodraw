@@ -429,7 +429,7 @@
         <mxCell id="MicuZsWAX-tykQt6Oe6H-23" value="lung cancer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="238.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-24" value="COPD/IPF/PAH/asthma/lung cancer/ bronchiectasis/pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-24" value="bronchiectasis/pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="750" y="300.73" width="238.25" height="45" as="geometry" />
         </mxCell>
       </root>
