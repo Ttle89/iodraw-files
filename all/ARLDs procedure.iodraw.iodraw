@@ -327,6 +327,9 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-35" value="pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="132" width="107.25" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-36" target="MicuZsWAX-tykQt6Oe6H-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-36" value="Age related lung disease (ARLDs)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="152.75" y="72.93" width="238.25" height="30" as="geometry" />
         </mxCell>
