@@ -70,8 +70,8 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="p1wfFmktk1Te3uoc5Mjy-49" source="p1wfFmktk1Te3uoc5Mjy-38" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-38" value="I_ILD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="p1wfFmktk1Te3uoc5Mjy-49" vertex="1">
-          <mxGeometry x="325" y="113" width="70" height="34.02" as="geometry" />
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-38" value="lung cancer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="p1wfFmktk1Te3uoc5Mjy-49" vertex="1">
+          <mxGeometry x="310" y="113" width="85" height="34.02" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="p1wfFmktk1Te3uoc5Mjy-49" source="p1wfFmktk1Te3uoc5Mjy-39" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
