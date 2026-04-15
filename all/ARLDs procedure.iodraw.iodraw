@@ -433,6 +433,12 @@
         <mxCell id="MicuZsWAX-tykQt6Oe6H-24" value="bronchiectasis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="471" y="132.00000000000003" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="282" y="113" as="sourcePoint" />
+            <mxPoint x="342" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
