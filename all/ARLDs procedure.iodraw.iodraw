@@ -328,21 +328,6 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-36" value="Age related lung disease (ARLDs)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="111.75" y="72.93" width="238.25" height="30.93" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="323.272727272727" y="159.0200000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="402.5454545454545" y="159.0200000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502.9999999999998" y="159.0200000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="p1wfFmktk1Te3uoc5Mjy-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="615.2500000000002" y="159.0200000000001" as="sourcePoint" />
