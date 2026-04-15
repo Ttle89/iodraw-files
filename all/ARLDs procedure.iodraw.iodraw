@@ -348,20 +348,11 @@
             <mxPoint x="414" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-2" value="Pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="125" width="110.5" height="34.02" as="geometry" />
-        </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-36" target="MicuZsWAX-tykQt6Oe6H-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467" y="99" as="sourcePoint" />
-            <mxPoint x="513" y="135" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="57" y="12" width="530" height="567" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-32" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92" y="42.93" width="478" height="142.27" as="geometry" />
+          <mxGeometry x="92" y="42.93" width="598" height="142.27" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-11" target="p1wfFmktk1Te3uoc5Mjy-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -445,6 +436,15 @@
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-3" value="PAH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="233" y="125" width="53.5" height="34.02" as="geometry" />
+        </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-2" value="Pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="125" width="110.5" height="34.02" as="geometry" />
+        </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-36" target="MicuZsWAX-tykQt6Oe6H-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="467" y="99" as="sourcePoint" />
+            <mxPoint x="513" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
