@@ -335,6 +335,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-36" target="MicuZsWAX-tykQt6Oe6H-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272" y="110" />
+              <mxPoint x="134" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-36" value="Age related lung disease (ARLDs)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="152.75" y="72.93" width="238.25" height="30" as="geometry" />
         </mxCell>
