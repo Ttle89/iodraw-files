@@ -471,10 +471,18 @@
             <mxPoint x="282" y="113" as="sourcePoint" />
             <mxPoint x="144" y="142" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="282" y="103" />
-              <mxPoint x="282" y="120" />
-              <mxPoint x="180" y="120" />
-              <mxPoint x="180" y="132" />
+              <mxPoint x="272" y="110" />
+              <mxPoint x="179" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="123" as="sourcePoint" />
+            <mxPoint x="154" y="152" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="292" y="130" />
+              <mxPoint x="154" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
