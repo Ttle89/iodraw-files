@@ -328,15 +328,6 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-35" value="pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="361" y="125" width="107.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-36" target="MicuZsWAX-tykQt6Oe6H-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="272" y="120" />
-              <mxPoint x="210" y="120" />
-              <mxPoint x="210" y="125" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-36" value="Age related lung disease (ARLDs)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="152.75" y="72.93" width="238.25" height="30" as="geometry" />
         </mxCell>
