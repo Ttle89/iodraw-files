@@ -314,6 +314,9 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-29" value="&lt;div&gt;Functional Pathway Annotation&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Pathway enrichment analysis (GO &amp;amp; KEGG)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="460.05" width="598" height="51.55" as="geometry" />
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-35" target="p1wfFmktk1Te3uoc5Mjy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-35" value="pneumoconiosis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="132" width="107.25" height="30" as="geometry" />
         </mxCell>
@@ -410,14 +413,6 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ILD Molecular Phenotyping &amp;amp; Prognosis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="268.5" y="620" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MicuZsWAX-tykQt6Oe6H-17" target="p1wfFmktk1Te3uoc5Mjy-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="616" y="190" />
-              <mxPoint x="391" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-17" value="control group" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="556" y="72.93" width="120" height="30.93" as="geometry" />
         </mxCell>
@@ -439,11 +434,20 @@
         <mxCell id="MicuZsWAX-tykQt6Oe6H-21" value="PAH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="199.25" y="132" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MicuZsWAX-tykQt6Oe6H-22" target="p1wfFmktk1Te3uoc5Mjy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-22" value="asthma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="241.75" y="132" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MicuZsWAX-tykQt6Oe6H-23" target="p1wfFmktk1Te3uoc5Mjy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-23" value="lung cancer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="306" y="127" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MicuZsWAX-tykQt6Oe6H-24" target="p1wfFmktk1Te3uoc5Mjy-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-24" value="bronchiectasis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="471" y="132.00000000000003" width="100" height="30" as="geometry" />
