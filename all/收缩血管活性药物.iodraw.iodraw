@@ -1,0 +1,67 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="chcWc1hCMtg1l40sv0EK">
+    <mxGraphModel dx="486" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#E4FFBD;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-2" value="特利加压素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="184" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-5" value="初始剂量👉1-2mg/12h" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="170" y="200" as="sourcePoint" />
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-9" value="2mg/6h" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="321" y="199.6" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.496;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Ac8dGm9XLyk2eX7bGak1-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-8" value="48-72h尿量无明显增加，Scr下降&amp;lt;30%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="206" y="123" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-12" value="间歇性持续&lt;div&gt;静脉滴注&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="340" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-14" value="去甲肾上腺素0.5-3mg/h" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="258" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-15" value="持续&lt;div&gt;静脉滴注&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="379" y="210" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.496;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="230" as="sourcePoint" />
+            <mxPoint x="480" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-17" value="腹水完全缓解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="123" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;rotation=-90;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="477" y="189" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ac8dGm9XLyk2eX7bGak1-20" value="5-7d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="490" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
