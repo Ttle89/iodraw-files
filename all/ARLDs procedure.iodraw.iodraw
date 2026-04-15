@@ -318,6 +318,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="197.56363636363636" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="445" y="180" />
+              <mxPoint x="272" y="180" />
               <mxPoint x="272" y="190" />
               <mxPoint x="391" y="190" />
             </Array>
@@ -424,7 +426,7 @@
           <mxGeometry x="227.5" y="125" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-22" value="asthma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="278.25" y="125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-23" value="lung cancer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="80" height="30" as="geometry" />
