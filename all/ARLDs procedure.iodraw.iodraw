@@ -439,6 +439,9 @@
         <mxCell id="MicuZsWAX-tykQt6Oe6H-21" value="PAH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="199.25" y="132" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MicuZsWAX-tykQt6Oe6H-22" target="p1wfFmktk1Te3uoc5Mjy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-22" value="asthma" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="241.75" y="132" width="60" height="30" as="geometry" />
         </mxCell>
@@ -504,8 +507,7 @@
             <mxPoint x="153" y="182" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="219" y="190" />
-              <mxPoint x="400" y="190" />
-              <mxPoint x="400" y="220" />
+              <mxPoint x="391" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
