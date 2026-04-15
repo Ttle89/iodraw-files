@@ -365,7 +365,7 @@
             <mxPoint x="319.5" y="343.95272727272726" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-19" value="Functional Analysis&lt;div&gt;Pathway enrichment analysis (&lt;span style=&quot;background-color: initial;&quot;&gt;GO &amp;amp; KEGG&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-19" value="Common Feature Extraction&lt;div&gt;UpSetR High-Throughput Mapping Algorithm&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="300.73" width="598" height="51.55" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-21" value="ARLDs Risk Prediction Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
