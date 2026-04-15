@@ -357,24 +357,8 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-58" value="Molecular Subtyping&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;K-means unsupervised clustering&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.25" y="772" width="596.75" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.75" y="912" as="sourcePoint" />
-            <mxPoint x="190.81818181818187" y="930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-60" value="Cluster Annotation&lt;div&gt;Pathway enrichment analysis (&lt;span style=&quot;background-color: initial;&quot;&gt;GO &amp;amp; KEGG&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.25" y="840" width="596.75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" target="p1wfFmktk1Te3uoc5Mjy-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190.81818181818187" y="1000" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="p1wfFmktk1Te3uoc5Mjy-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="443.25" y="1000" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Re-validation Assessment&lt;br&gt;&lt;div&gt;Spearman/Pearson&#39;s correlation test,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kaplan-Meier survival curve,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Log-rank test&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.25" y="1050" width="455" height="50" as="geometry" />
@@ -468,6 +452,9 @@
               <mxPoint x="220" y="110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-48" value="Cluster Annotation&lt;div&gt;Pathway enrichment analysis (&lt;span style=&quot;background-color: initial;&quot;&gt;GO &amp;amp; KEGG&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93.25" y="920" width="596.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
