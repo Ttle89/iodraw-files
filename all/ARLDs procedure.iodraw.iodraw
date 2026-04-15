@@ -298,7 +298,7 @@
           <mxGeometry x="233.5" y="12" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-24" value="Data Acquisition from UK Biobank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="117" y="42.92727272727273" width="200" height="30" as="geometry" />
+          <mxGeometry x="92" y="42.92727272727273" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-27" target="p1wfFmktk1Te3uoc5Mjy-29" edge="1">
           <mxGeometry relative="1" as="geometry">
