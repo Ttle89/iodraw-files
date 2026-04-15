@@ -413,15 +413,8 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ILD Molecular Phenotyping &amp;amp; Prognosis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="268.5" y="620" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615.9999999999998" y="104.86000000000001" as="sourcePoint" />
-            <mxPoint x="390.9999999999998" y="220.63" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="616" y="191" />
-              <mxPoint x="391" y="191" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MicuZsWAX-tykQt6Oe6H-17" target="p1wfFmktk1Te3uoc5Mjy-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-17" value="control group" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="556" y="72.93" width="120" height="30.93" as="geometry" />
