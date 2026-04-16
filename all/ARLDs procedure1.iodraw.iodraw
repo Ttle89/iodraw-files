@@ -450,10 +450,10 @@
             <mxPoint x="508" y="225.00363636363636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-15" value="" style="group;fillColor=#FFB570;" vertex="1" connectable="0" parent="1">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="82" y="1629.9963636363636" width="663" height="310.00363636363636" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=none;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
           <mxGeometry y="0.003636363636360329" width="663" height="310" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-17" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
