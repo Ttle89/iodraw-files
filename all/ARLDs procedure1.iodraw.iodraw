@@ -424,7 +424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="82" y="1240" width="663" height="444.36" as="geometry" />
+          <mxGeometry x="82" y="1240" width="663" height="310" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="334" y="1239.9963636363636" width="160" height="30" as="geometry" />
@@ -447,7 +447,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-10" value="Prognostic Survival Analysis&lt;div&gt;Kaplan-Meier analysis &amp;amp; ROC &amp;amp;&amp;nbsp;&lt;span style=&quot;font-family: Calibri; font-size: 14px; background-color: initial;&quot;&gt;Cox&amp;nbsp; regression&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1453" width="287.37" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="t5G0mFXRP4Ja4X7RkUyd-10">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-8" target="t5G0mFXRP4Ja4X7RkUyd-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="424" y="1410" as="sourcePoint" />
             <mxPoint x="590" y="1465" as="targetPoint" />
