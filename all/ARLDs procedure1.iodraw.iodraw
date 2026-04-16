@@ -426,14 +426,20 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="82" y="1240" width="663" height="444.36" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.5" y="1515.0872727272726" as="sourcePoint" />
-            <mxPoint x="344.5000000000002" y="1529.9963636363634" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="334" y="1239.9963636363636" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-7" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101.25" y="1150" width="596.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-8" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1230" width="598" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-9" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="418.62" y="1333" width="279.38" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-10" value="Prognostic Survival Analysis&lt;div&gt;Kaplan-Meier analysis &amp;amp; ROC &amp;amp;&amp;nbsp;&lt;span style=&quot;font-family: Calibri; font-size: 14px; background-color: initial;&quot;&gt;Cox&amp;nbsp; regression&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1333" width="287.37" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
