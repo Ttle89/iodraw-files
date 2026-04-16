@@ -10,210 +10,6 @@
             <mxPoint x="414" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-104" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="67" y="1739" width="730" height="599" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-31" value="" style="group" parent="S2bp39Xl8VdnLdi-VNrB-104" vertex="1" connectable="0">
-          <mxGeometry width="730" height="599" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=none;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="-4" width="700" height="569" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-36" target="S2bp39Xl8VdnLdi-VNrB-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="287.5" y="128.80999999999995" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="461" y="150" />
-              <mxPoint x="385" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-34" target="S2bp39Xl8VdnLdi-VNrB-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-34" value="Independent Cohort" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="90" y="72.45" width="155" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-35" value="Translational Validation (To be conducted)&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Samples collected from the Department of Transplantation and Thoracic Surgery, The first Affiliated Hospital Of Guangzhou Medical University&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;fontStyle=1" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="81" width="530" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-36" value="Protein Assays" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="383" y="72.45000000000005" width="155" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-43" target="S2bp39Xl8VdnLdi-VNrB-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-43" value="lung transplantation" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="336" y="178" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-45" target="S2bp39Xl8VdnLdi-VNrB-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-45" value="wedge excision" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="487" y="178" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-36" target="S2bp39Xl8VdnLdi-VNrB-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="287.5" y="128.80999999999995" as="sourcePoint" />
-            <mxPoint x="249" y="188" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="461" y="150" />
-              <mxPoint x="536" y="150" />
-              <mxPoint x="536" y="170" />
-              <mxPoint x="536" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="382.4927536231884" y="297.17999999999984" as="sourcePoint" />
-            <mxPoint x="382" y="404" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="382" y="380" />
-              <mxPoint x="382" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-47" value="fibrotic lung tissue" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="335" y="250.81999999999994" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-49" target="S2bp39Xl8VdnLdi-VNrB-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-49" value="peripheral regions of lung nodules&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="486" y="250.81999999999994" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-52" target="S2bp39Xl8VdnLdi-VNrB-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="535" y="390" />
-              <mxPoint x="535" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-52" value="healthy lung tissue" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="486" y="320" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-53" value="Masson&#39;s trichrome staining" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="353" y="404" width="210" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-61" target="S2bp39Xl8VdnLdi-VNrB-87" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="91" y="250" />
-              <mxPoint x="60" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-61" value="blood sample" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="42" y="178" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-62" value="lung tissue" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="197" y="178" width="97" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-34" target="S2bp39Xl8VdnLdi-VNrB-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="178" y="139" as="sourcePoint" />
-            <mxPoint x="218" y="188" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-88" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="126" y="351" />
-              <mxPoint x="176" y="351" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-88" value="ILD (138)" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="102" y="265.82" width="47" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-87" value="healthy (20)" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="29" y="265.82" width="61" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="91" y="224.36000000000013" as="sourcePoint" />
-            <mxPoint x="126" y="265.8199999999997" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="91" y="250" />
-              <mxPoint x="126" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-94" value="ILD (51)" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="258.5" y="265.82" width="40.5" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-95" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="216" y="351" />
-              <mxPoint x="176" y="351" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-95" value="healthy (21)" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="185.5" y="265.81999999999994" width="61" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-94" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="234" as="sourcePoint" />
-            <mxPoint x="226" y="276" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-98" value="proteomic sequencing" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-31" vertex="1">
-          <mxGeometry x="103" y="404" width="147" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-94" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="226" y="322" as="sourcePoint" />
-            <mxPoint x="186" y="368" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="279" y="351" />
-              <mxPoint x="176" y="351" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-31" source="S2bp39Xl8VdnLdi-VNrB-87" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="136" y="322" as="sourcePoint" />
-            <mxPoint x="186" y="368" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="351" />
-              <mxPoint x="176" y="351" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-25" value="&lt;p&gt;Immunohistochemistry (IHC)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-104" vertex="1">
-          <mxGeometry x="226" y="499" width="136" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-24" value="&lt;p&gt;Western-blotting (WB)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-104" vertex="1">
-          <mxGeometry x="546" y="499" width="106" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-22" value="&lt;p&gt;Immunofluorescence (IF)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="S2bp39Xl8VdnLdi-VNrB-104" vertex="1">
-          <mxGeometry x="396" y="499" width="124" height="46.36" as="geometry" />
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-104" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="436" y="460" as="sourcePoint" />
-            <mxPoint x="473" y="509" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-104" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="333" y="460" as="sourcePoint" />
-            <mxPoint x="511" y="509" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="S2bp39Xl8VdnLdi-VNrB-104" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="451" y="460" as="sourcePoint" />
-            <mxPoint x="577" y="509" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-105" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414.40000000000003" y="1180" as="sourcePoint" />
@@ -451,6 +247,204 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="424" y="1400" as="sourcePoint" />
             <mxPoint x="590" y="1455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1990" width="700" height="569" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-36" target="S2bp39Xl8VdnLdi-VNrB-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361.5" y="2118.81" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="535" y="2140" />
+              <mxPoint x="459" y="2140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-34" target="S2bp39Xl8VdnLdi-VNrB-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-34" value="Independent Cohort" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="164" y="2062.45" width="155" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-35" value="Translational Validation (To be conducted)&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Samples collected from the Department of Transplantation and Thoracic Surgery, The first Affiliated Hospital Of Guangzhou Medical University&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="155" y="1990" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-36" value="Protein Assays" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="457" y="2062.45" width="155" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-43" target="S2bp39Xl8VdnLdi-VNrB-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-43" value="lung transplantation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="2168" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-45" target="S2bp39Xl8VdnLdi-VNrB-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-45" value="wedge excision" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="561" y="2168" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-36" target="S2bp39Xl8VdnLdi-VNrB-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361.5" y="2118.81" as="sourcePoint" />
+            <mxPoint x="323" y="2178" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="2140" />
+              <mxPoint x="610" y="2140" />
+              <mxPoint x="610" y="2160" />
+              <mxPoint x="610" y="2160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456.4927536231884" y="2287.18" as="sourcePoint" />
+            <mxPoint x="456" y="2394" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="456" y="2370" />
+              <mxPoint x="456" y="2370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-47" value="fibrotic lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="409" y="2240.8199999999997" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-49" target="S2bp39Xl8VdnLdi-VNrB-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-49" value="peripheral regions of lung nodules&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="2240.8199999999997" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-52" target="S2bp39Xl8VdnLdi-VNrB-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="2380" />
+              <mxPoint x="609" y="2380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-52" value="healthy lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="2310" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-53" value="Masson&#39;s trichrome staining" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="2394" width="210" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-61" target="S2bp39Xl8VdnLdi-VNrB-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="2240" />
+              <mxPoint x="134" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-61" value="blood sample" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="116" y="2168" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-62" value="lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="271" y="2168" width="97" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-34" target="S2bp39Xl8VdnLdi-VNrB-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252" y="2129" as="sourcePoint" />
+            <mxPoint x="292" y="2178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-88" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2341" />
+              <mxPoint x="250" y="2341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-88" value="ILD (138)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="176" y="2255.8199999999997" width="47" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-87" value="healthy (20)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="103" y="2255.8199999999997" width="61" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="2214.36" as="sourcePoint" />
+            <mxPoint x="200" y="2255.8199999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="2240" />
+              <mxPoint x="200" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-94" value="ILD (51)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="2255.8199999999997" width="40.5" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-95" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="2341" />
+              <mxPoint x="250" y="2341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-95" value="healthy (21)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="259.5" y="2255.8199999999997" width="61" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="2224" as="sourcePoint" />
+            <mxPoint x="300" y="2266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-98" value="proteomic sequencing" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="177" y="2394" width="147" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-94" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="2312" as="sourcePoint" />
+            <mxPoint x="260" y="2358" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="353" y="2341" />
+              <mxPoint x="250" y="2341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-87" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2312" as="sourcePoint" />
+            <mxPoint x="260" y="2358" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="134" y="2341" />
+              <mxPoint x="250" y="2341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-25" value="&lt;p&gt;Immunohistochemistry (IHC)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="2489" width="136" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-24" value="&lt;p&gt;Western-blotting (WB)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2489" width="106" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-22" value="&lt;p&gt;Immunofluorescence (IF)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="2489" width="124" height="46.36" as="geometry" />
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="2450" as="sourcePoint" />
+            <mxPoint x="547" y="2499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="2450" as="sourcePoint" />
+            <mxPoint x="585" y="2499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="2450" as="sourcePoint" />
+            <mxPoint x="651" y="2499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
