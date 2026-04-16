@@ -507,7 +507,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-38" source="t5G0mFXRP4Ja4X7RkUyd-42" target="t5G0mFXRP4Ja4X7RkUyd-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-42" value="Instrumental Variable Quality Control &amp;amp; Extraction&lt;div&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Genome-wide association study (GWAS)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-42" value="Unsupervised Clustering Subtyping&lt;div&gt;k-means unsupervised clustering&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
           <mxGeometry x="34.25" y="30.00363636363636" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-38" source="t5G0mFXRP4Ja4X7RkUyd-44" target="t5G0mFXRP4Ja4X7RkUyd-45">
