@@ -451,7 +451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="1500" width="661.75" height="390" as="geometry" />
+          <mxGeometry x="83" y="1630" width="661.75" height="390" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;strokeColor=none;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry width="661.75" height="390" as="geometry" />
@@ -477,8 +477,8 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-33" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="349.37" y="293" width="279.38" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-34" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
-          <mxGeometry x="171" width="320" height="30" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-34" value="Single-Cell RNA Sequencing Analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="221" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-35" value="Prognostic Survival Analysis&lt;div&gt;Kaplan-Meier analysis &amp;amp; ROC &amp;amp;&amp;nbsp;&lt;span style=&quot;font-family: Calibri; font-size: 14px; background-color: initial;&quot;&gt;Cox&amp;nbsp; regression&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="30.75" y="293" width="287.37" height="60" as="geometry" />
