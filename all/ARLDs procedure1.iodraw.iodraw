@@ -219,45 +219,15 @@
             <mxPoint x="187.75" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="82" y="1230" width="663" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="334" y="1229.9963636363636" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-7" target="t5G0mFXRP4Ja4X7RkUyd-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-7" value="Instrumental Variable Quality Control &amp;amp; Extraction&lt;div&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Genome-wide association study (GWAS)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="116.25" y="1260" width="596.75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-8" target="t5G0mFXRP4Ja4X7RkUyd-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-8" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1340" width="598" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-9" value="Sensitivity Analysis&lt;div&gt;&lt;div&gt;Cochran’s Q test &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Leave-one-out analysis&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="433.62" y="1443" width="279.38" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-10" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1443" width="287.37" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-8" target="t5G0mFXRP4Ja4X7RkUyd-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="1400" as="sourcePoint" />
-            <mxPoint x="590" y="1455" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1990" width="700" height="569" as="geometry" />
+          <mxGeometry x="70" y="2190" width="700" height="569" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-36" target="S2bp39Xl8VdnLdi-VNrB-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="361.5" y="2118.81" as="sourcePoint" />
+            <mxPoint x="361.5" y="2318.81" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="535" y="2140" />
-              <mxPoint x="459" y="2140" />
+              <mxPoint x="535" y="2340" />
+              <mxPoint x="459" y="2340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -265,186 +235,219 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-34" value="Independent Cohort" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164" y="2062.45" width="155" height="46.36" as="geometry" />
+          <mxGeometry x="164" y="2262.45" width="155" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-35" value="Translational Validation (To be conducted)&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Samples collected from the Department of Transplantation and Thoracic Surgery, The first Affiliated Hospital Of Guangzhou Medical University&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="155" y="1990" width="530" height="60" as="geometry" />
+          <mxGeometry x="155" y="2190" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-36" value="Protein Assays" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="457" y="2062.45" width="155" height="46.36" as="geometry" />
+          <mxGeometry x="457" y="2262.45" width="155" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-43" target="S2bp39Xl8VdnLdi-VNrB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-43" value="lung transplantation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="2168" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="410" y="2368" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-45" target="S2bp39Xl8VdnLdi-VNrB-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-45" value="wedge excision" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="561" y="2168" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="561" y="2368" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-36" target="S2bp39Xl8VdnLdi-VNrB-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="361.5" y="2118.81" as="sourcePoint" />
-            <mxPoint x="323" y="2178" as="targetPoint" />
+            <mxPoint x="361.5" y="2318.81" as="sourcePoint" />
+            <mxPoint x="323" y="2378" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="535" y="2140" />
-              <mxPoint x="610" y="2140" />
-              <mxPoint x="610" y="2160" />
-              <mxPoint x="610" y="2160" />
+              <mxPoint x="535" y="2340" />
+              <mxPoint x="610" y="2340" />
+              <mxPoint x="610" y="2360" />
+              <mxPoint x="610" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="456.4927536231884" y="2287.18" as="sourcePoint" />
-            <mxPoint x="456" y="2394" as="targetPoint" />
+            <mxPoint x="456.4927536231884" y="2487.18" as="sourcePoint" />
+            <mxPoint x="456" y="2594" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="456" y="2370" />
-              <mxPoint x="456" y="2370" />
+              <mxPoint x="456" y="2570" />
+              <mxPoint x="456" y="2570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-47" value="fibrotic lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="409" y="2240.8199999999997" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="409" y="2440.8199999999997" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-49" target="S2bp39Xl8VdnLdi-VNrB-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-49" value="peripheral regions of lung nodules&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="2240.8199999999997" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="560" y="2440.8199999999997" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-52" target="S2bp39Xl8VdnLdi-VNrB-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="609" y="2380" />
-              <mxPoint x="609" y="2380" />
+              <mxPoint x="609" y="2580" />
+              <mxPoint x="609" y="2580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-52" value="healthy lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="2310" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="560" y="2510" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-53" value="Masson&#39;s trichrome staining" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="427" y="2394" width="210" height="46.36" as="geometry" />
+          <mxGeometry x="427" y="2594" width="210" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-61" target="S2bp39Xl8VdnLdi-VNrB-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="165" y="2240" />
-              <mxPoint x="134" y="2240" />
+              <mxPoint x="165" y="2440" />
+              <mxPoint x="134" y="2440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-61" value="blood sample" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="116" y="2168" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="116" y="2368" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-62" value="lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="271" y="2168" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="271" y="2368" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-34" target="S2bp39Xl8VdnLdi-VNrB-61" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="252" y="2129" as="sourcePoint" />
-            <mxPoint x="292" y="2178" as="targetPoint" />
+            <mxPoint x="252" y="2329" as="sourcePoint" />
+            <mxPoint x="292" y="2378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-88" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="2341" />
-              <mxPoint x="250" y="2341" />
+              <mxPoint x="200" y="2541" />
+              <mxPoint x="250" y="2541" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-88" value="ILD (138)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="2255.8199999999997" width="47" height="46.36" as="geometry" />
+          <mxGeometry x="176" y="2455.8199999999997" width="47" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-87" value="healthy (20)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="2255.8199999999997" width="61" height="46.36" as="geometry" />
+          <mxGeometry x="103" y="2455.8199999999997" width="61" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="2214.36" as="sourcePoint" />
-            <mxPoint x="200" y="2255.8199999999997" as="targetPoint" />
+            <mxPoint x="165" y="2414.36" as="sourcePoint" />
+            <mxPoint x="200" y="2455.8199999999997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="165" y="2240" />
-              <mxPoint x="200" y="2240" />
+              <mxPoint x="165" y="2440" />
+              <mxPoint x="200" y="2440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-94" value="ILD (51)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="332.5" y="2255.8199999999997" width="40.5" height="46.36" as="geometry" />
+          <mxGeometry x="332.5" y="2455.8199999999997" width="40.5" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-95" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="2341" />
-              <mxPoint x="250" y="2341" />
+              <mxPoint x="290" y="2541" />
+              <mxPoint x="250" y="2541" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-95" value="healthy (21)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="259.5" y="2255.8199999999997" width="61" height="46.36" as="geometry" />
+          <mxGeometry x="259.5" y="2455.8199999999997" width="61" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-94" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329" y="2224" as="sourcePoint" />
-            <mxPoint x="300" y="2266" as="targetPoint" />
+            <mxPoint x="329" y="2424" as="sourcePoint" />
+            <mxPoint x="300" y="2466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-98" value="proteomic sequencing" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="2394" width="147" height="46.36" as="geometry" />
+          <mxGeometry x="177" y="2594" width="147" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-94" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="2312" as="sourcePoint" />
-            <mxPoint x="260" y="2358" as="targetPoint" />
+            <mxPoint x="300" y="2512" as="sourcePoint" />
+            <mxPoint x="260" y="2558" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="353" y="2341" />
-              <mxPoint x="250" y="2341" />
+              <mxPoint x="353" y="2541" />
+              <mxPoint x="250" y="2541" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-87" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="2312" as="sourcePoint" />
-            <mxPoint x="260" y="2358" as="targetPoint" />
+            <mxPoint x="210" y="2512" as="sourcePoint" />
+            <mxPoint x="260" y="2558" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="134" y="2341" />
-              <mxPoint x="250" y="2341" />
+              <mxPoint x="134" y="2541" />
+              <mxPoint x="250" y="2541" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-25" value="&lt;p&gt;Immunohistochemistry (IHC)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="2489" width="136" height="46.36" as="geometry" />
+          <mxGeometry x="300" y="2689" width="136" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-24" value="&lt;p&gt;Western-blotting (WB)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="2489" width="106" height="46.36" as="geometry" />
+          <mxGeometry x="620" y="2689" width="106" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-22" value="&lt;p&gt;Immunofluorescence (IF)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="2489" width="124" height="46.36" as="geometry" />
+          <mxGeometry x="470" y="2689" width="124" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="2450" as="sourcePoint" />
-            <mxPoint x="547" y="2499" as="targetPoint" />
+            <mxPoint x="510" y="2650" as="sourcePoint" />
+            <mxPoint x="547" y="2699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407" y="2450" as="sourcePoint" />
-            <mxPoint x="585" y="2499" as="targetPoint" />
+            <mxPoint x="407" y="2650" as="sourcePoint" />
+            <mxPoint x="585" y="2699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="2450" as="sourcePoint" />
-            <mxPoint x="651" y="2499" as="targetPoint" />
+            <mxPoint x="525" y="2650" as="sourcePoint" />
+            <mxPoint x="651" y="2699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="82" y="1229.9963636363636" width="663" height="310.00363636363636" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="t5G0mFXRP4Ja4X7RkUyd-14" vertex="1">
+          <mxGeometry y="0.003636363636360329" width="663" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-14" vertex="1">
+          <mxGeometry x="252" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-14" source="t5G0mFXRP4Ja4X7RkUyd-7" target="t5G0mFXRP4Ja4X7RkUyd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-7" value="Instrumental Variable Quality Control &amp;amp; Extraction&lt;div&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Genome-wide association study (GWAS)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-14">
+          <mxGeometry x="34.25" y="30.00363636363636" width="596.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-14" source="t5G0mFXRP4Ja4X7RkUyd-8" target="t5G0mFXRP4Ja4X7RkUyd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-8" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-14">
+          <mxGeometry x="33" y="110.00363636363636" width="598" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-9" value="Sensitivity Analysis&lt;div&gt;&lt;div&gt;Cochran’s Q test &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Leave-one-out analysis&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-14">
+          <mxGeometry x="351.62" y="213.00363636363636" width="279.38" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-10" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-14">
+          <mxGeometry x="33" y="213.00363636363636" width="287.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-14" source="t5G0mFXRP4Ja4X7RkUyd-8" target="t5G0mFXRP4Ja4X7RkUyd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342" y="170.00363636363636" as="sourcePoint" />
+            <mxPoint x="508" y="225.00363636363636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
