@@ -450,37 +450,43 @@
             <mxPoint x="508" y="225.00363636363636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="82" y="1629.9963636363636" width="663" height="310.00363636363636" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="93" y="740" width="661.75" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=none;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
-          <mxGeometry y="0.003636363636360329" width="663" height="310" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;strokeColor=none;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry width="661.75" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-17" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
-          <mxGeometry x="252" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-15" source="t5G0mFXRP4Ja4X7RkUyd-19" target="t5G0mFXRP4Ja4X7RkUyd-21">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-28" target="t5G0mFXRP4Ja4X7RkUyd-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-19" value="Instrumental Variable Quality Control &amp;amp; Extraction&lt;div&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Genome-wide association study (GWAS)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
-          <mxGeometry x="34.25" y="30.00363636363636" width="596.75" height="50" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-28" value="Feature Dimensionally Reduction&lt;div&gt;LightGBM &amp;amp; Variable ranking &amp;amp; Sequential forward selection&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="31.38" y="30" width="596.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-15" source="t5G0mFXRP4Ja4X7RkUyd-21" target="t5G0mFXRP4Ja4X7RkUyd-22">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-30" target="t5G0mFXRP4Ja4X7RkUyd-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-21" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
-          <mxGeometry x="33" y="110.00363636363636" width="598" height="50" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-30" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="32" y="110" width="596.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-22" value="Sensitivity Analysis&lt;div&gt;&lt;div&gt;Cochran’s Q test &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Leave-one-out analysis&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
-          <mxGeometry x="351.62" y="213.00363636363636" width="279.38" height="60" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-32" target="t5G0mFXRP4Ja4X7RkUyd-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-23" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-15">
-          <mxGeometry x="33" y="213.00363636363636" width="287.37" height="60" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-32" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="30.75" y="190" width="598" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-15" source="t5G0mFXRP4Ja4X7RkUyd-21" target="t5G0mFXRP4Ja4X7RkUyd-23">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-33" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="349.37" y="293" width="279.38" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-34" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="171" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-35" value="Prognostic Survival Analysis&lt;div&gt;Kaplan-Meier analysis &amp;amp; ROC &amp;amp;&amp;nbsp;&lt;span style=&quot;font-family: Calibri; font-size: 14px; background-color: initial;&quot;&gt;Cox&amp;nbsp; regression&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+          <mxGeometry x="30.75" y="293" width="287.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-32" target="t5G0mFXRP4Ja4X7RkUyd-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342" y="170.00363636363636" as="sourcePoint" />
-            <mxPoint x="508" y="225.00363636363636" as="targetPoint" />
+            <mxPoint x="341.75" y="250" as="sourcePoint" />
+            <mxPoint x="187.75" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
