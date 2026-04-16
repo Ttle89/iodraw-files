@@ -357,11 +357,14 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-58" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.25" y="730" width="596.75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1wfFmktk1Te3uoc5Mjy-60" target="MicuZsWAX-tykQt6Oe6H-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-60" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="810" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="409.37" y="890" width="279.38" height="80" as="geometry" />
+          <mxGeometry x="409.37" y="890" width="279.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="228.5" y="620" width="320" height="30" as="geometry" />
