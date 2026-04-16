@@ -469,10 +469,13 @@
           <mxGeometry x="116.25" y="2050" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-44" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="2220" width="598" height="50" as="geometry" />
+          <mxGeometry x="115" y="2241" width="598" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-45" value="Sensitivity Analysis&lt;div&gt;&lt;div&gt;Cochran’s Q test &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Leave-one-out analysis&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433.62" y="2149" width="279.38" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-46" target="t5G0mFXRP4Ja4X7RkUyd-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-46" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="2149" width="287.37" height="60" as="geometry" />
