@@ -471,8 +471,8 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-104" value="Translational Validation&lt;br&gt;&lt;div&gt;(To be conducted)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
           <mxGeometry x="35" y="354.90909090909076" width="455" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Multi-omics Mechanism &amp;amp; Validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="222" width="220" height="30" as="geometry" />
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
+          <mxGeometry x="252" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
