@@ -361,7 +361,7 @@
           <mxGeometry x="92" y="810" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Preclinical Trajectory Reconstruction" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="920" width="279.38" height="140" as="geometry" />
+          <mxGeometry x="409.37" y="890" width="279.38" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="228.5" y="620" width="320" height="30" as="geometry" />
