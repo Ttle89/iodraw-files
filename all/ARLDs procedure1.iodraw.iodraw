@@ -394,7 +394,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-55" value="Feature Dimensionally Reduction&lt;div&gt;LightGBM &amp;amp; Variable ranking &amp;amp; Sequential forward selection&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
-          <mxGeometry x="32" y="30" width="596.75" height="50" as="geometry" />
+          <mxGeometry x="31.38" y="30" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-5" source="p1wfFmktk1Te3uoc5Mjy-58" target="p1wfFmktk1Te3uoc5Mjy-60">
           <mxGeometry relative="1" as="geometry" />
