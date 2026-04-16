@@ -347,7 +347,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-94" value="ILD (51)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-94" value="ARLDs" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325.25" y="2685.8199999999997" width="40.5" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-95" target="S2bp39Xl8VdnLdi-VNrB-98" edge="1">
@@ -358,7 +358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-95" value="healthy (21)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="S2bp39Xl8VdnLdi-VNrB-95" value="healthy" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="252.25" y="2685.8199999999997" width="61" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-62" target="S2bp39Xl8VdnLdi-VNrB-94" edge="1">
