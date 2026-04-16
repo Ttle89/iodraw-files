@@ -429,6 +429,9 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="334" y="1239.9963636363636" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-7" target="t5G0mFXRP4Ja4X7RkUyd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-7" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="116.25" y="1270" width="596.75" height="50" as="geometry" />
         </mxCell>
