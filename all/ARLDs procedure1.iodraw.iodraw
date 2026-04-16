@@ -216,57 +216,57 @@
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-105" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="397.99" y="1180" as="sourcePoint" />
-            <mxPoint x="397.59000000000003" y="1220" as="targetPoint" />
+            <mxPoint x="414.40000000000003" y="1180" as="sourcePoint" />
+            <mxPoint x="414.00000000000006" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="67" y="1232.64" width="663" height="444.36" as="geometry" />
+          <mxGeometry x="83" y="1240" width="663" height="444.36" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-89" target="p1wfFmktk1Te3uoc5Mjy-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-89" value="Causal Inference&lt;div&gt;Bidirectional Two-Sample Mendelian Randomization&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="1260.4545454545455" width="455" height="46.36363636363636" as="geometry" />
+          <mxGeometry x="118" y="1267.8145454545454" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-91" target="p1wfFmktk1Te3uoc5Mjy-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-91" value="Target Discovery&lt;div&gt;cis-Mendelian Randomization &amp;amp;&amp;nbsp;pQTL&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="1327.909090909091" width="455" height="45.43636363636364" as="geometry" />
+          <mxGeometry x="118" y="1335.269090909091" width="455" height="45.43636363636364" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-93" target="p1wfFmktk1Te3uoc5Mjy-97" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329.5" y="1459.581818181818" as="sourcePoint" />
+            <mxPoint x="345.5" y="1466.941818181818" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-93" value="Bulk Transcriptomics&lt;br&gt;&lt;div&gt;RNA-seq from GEO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="1392.8181818181818" width="455" height="46.36363636363636" as="geometry" />
+          <mxGeometry x="118" y="1400.1781818181817" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-97" target="p1wfFmktk1Te3uoc5Mjy-98" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329.5" y="1519.8545454545456" as="sourcePoint" />
+            <mxPoint x="345.5" y="1527.2145454545455" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-97" target="p1wfFmktk1Te3uoc5Mjy-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-97" value="Single-Cell Analysis&lt;div&gt;scRNA-seq from GEO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="1457.7272727272727" width="455" height="46.36363636363636" as="geometry" />
+          <mxGeometry x="118" y="1465.0872727272726" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-98" value="Pathogenic Mechanism&lt;div&gt;Monocle&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="1522.6363636363635" width="455" height="46.36363636363636" as="geometry" />
+          <mxGeometry x="118" y="1529.9963636363634" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-98" target="p1wfFmktk1Te3uoc5Mjy-104" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="1569" as="sourcePoint" />
+            <mxPoint x="346" y="1576.36" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-104" value="Translational Validation&lt;br&gt;&lt;div&gt;(To be conducted)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="102" y="1587.5454545454545" width="455" height="46.36363636363636" as="geometry" />
+          <mxGeometry x="118" y="1594.9054545454544" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Multi-omics Mechanism &amp;amp; Validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="222" y="1232.6363636363637" width="220" height="30" as="geometry" />
+          <mxGeometry x="238" y="1239.9963636363636" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
