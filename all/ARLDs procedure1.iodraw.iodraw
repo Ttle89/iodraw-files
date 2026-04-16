@@ -423,54 +423,49 @@
             <mxPoint x="187.75" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="82" y="1239.9963636363636" width="663" height="444.3636363636365" as="geometry" />
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="82" y="1240" width="663" height="444.36" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry y="0.003636363636360329" width="663" height="444.36" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-89" target="p1wfFmktk1Te3uoc5Mjy-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-89" value="Causal Inference&lt;div&gt;Bidirectional Two-Sample Mendelian Randomization&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="35" y="30.82" width="595" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-91" target="p1wfFmktk1Te3uoc5Mjy-93" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-91" value="Target Discovery&lt;div&gt;cis-Mendelian Randomization &amp;amp;&amp;nbsp;pQTL&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="35" y="95.27272727272725" width="455" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-93" target="p1wfFmktk1Te3uoc5Mjy-97" edge="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-89" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262.5" y="226.94545454545437" as="sourcePoint" />
+            <mxPoint x="344.5" y="1335.269090909091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-93" value="Bulk Transcriptomics&lt;br&gt;&lt;div&gt;RNA-seq from GEO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="35" y="160.18181818181802" width="455" height="50" as="geometry" />
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-89" value="Causal Inference&lt;div&gt;Bidirectional Two-Sample Mendelian Randomization&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="117" y="1270.8163636363636" width="595" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-97" target="p1wfFmktk1Te3uoc5Mjy-98" edge="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262.5" y="287.21818181818185" as="sourcePoint" />
+            <mxPoint x="344.5000000000002" y="1385.269090909091" as="sourcePoint" />
+            <mxPoint x="344.5000000000002" y="1400.1781818181817" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-97" target="p1wfFmktk1Te3uoc5Mjy-98" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-97" value="Single-Cell Analysis&lt;div&gt;scRNA-seq from GEO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="35" y="225.090909090909" width="455" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-98" value="Pathogenic Mechanism&lt;div&gt;Monocle&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="35" y="289.9999999999998" width="455" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-98" edge="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="263" y="336.36363636363626" as="sourcePoint" />
-            <mxPoint x="262.5" y="354.90909090909076" as="targetPoint" />
+            <mxPoint x="344.5" y="1450.1781818181817" as="sourcePoint" />
+            <mxPoint x="344.5000000000002" y="1465.0872727272726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="252" width="160" height="30" as="geometry" />
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344.5" y="1515.0872727272726" as="sourcePoint" />
+            <mxPoint x="344.5000000000002" y="1529.9963636363634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344.5000000000002" y="1515.0872727272726" as="sourcePoint" />
+            <mxPoint x="344.5000000000002" y="1529.9963636363634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344.5" y="1579.9963636363634" as="sourcePoint" />
+            <mxPoint x="344.5" y="1594.9054545454544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="334" y="1239.9963636363636" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
