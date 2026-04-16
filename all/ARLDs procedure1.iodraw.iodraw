@@ -462,14 +462,8 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-40" value="Clinical Molecular Subtyping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="329" y="2019.9963636363636" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-42" target="t5G0mFXRP4Ja4X7RkUyd-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-42" value="Unsupervised Clustering Subtyping&lt;div&gt;k-means unsupervised clustering&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="116.25" y="2050" width="596.75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-44" target="t5G0mFXRP4Ja4X7RkUyd-45">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-44" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="2130" width="598" height="50" as="geometry" />
