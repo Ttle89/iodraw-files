@@ -361,7 +361,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-60" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92" y="810" width="598" height="50" as="geometry" />
+          <mxGeometry x="90" y="810" width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="409.37" y="913" width="279.38" height="60" as="geometry" />
