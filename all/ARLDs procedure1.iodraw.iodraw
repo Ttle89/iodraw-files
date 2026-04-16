@@ -459,7 +459,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-28" target="t5G0mFXRP4Ja4X7RkUyd-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-28" value="Feature Dimensionally Reduction&lt;div&gt;LightGBM &amp;amp; Variable ranking &amp;amp; Sequential forward selection&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-28" value="&lt;div&gt;Sequencing Data Processing&lt;/div&gt;&lt;div&gt;LightGBM &amp;amp; Variable ranking &amp;amp; Sequential forward selection&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="31.38" y="30" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-30" target="t5G0mFXRP4Ja4X7RkUyd-32">
