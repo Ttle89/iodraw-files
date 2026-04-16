@@ -480,7 +480,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-46" target="t5G0mFXRP4Ja4X7RkUyd-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-46" value="Baseline Phenotype Assessment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-46" value="Baseline Phenotype Assessment&lt;div&gt;&lt;div&gt;Continuous &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Categorical variables&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="2149" width="287.37" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=none;" vertex="1" parent="1">
