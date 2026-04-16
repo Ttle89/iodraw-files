@@ -361,7 +361,7 @@
           <mxGeometry x="93.25" y="830" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Re-validation Assessment&lt;br&gt;&lt;div&gt;Spearman/Pearson&#39;s correlation test,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kaplan-Meier survival curve,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Log-rank test&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92.63" y="1010" width="596.75" height="50" as="geometry" />
+          <mxGeometry x="410" y="1010" width="279.38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="228.5" y="620" width="320" height="30" as="geometry" />
@@ -454,7 +454,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-48" value="Cluster Annotation&lt;div&gt;Pathway enrichment analysis (&lt;span style=&quot;background-color: initial;&quot;&gt;GO &amp;amp; KEGG&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92.63" y="920" width="287.37" height="50" as="geometry" />
+          <mxGeometry x="92.63" y="920" width="287.37" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
