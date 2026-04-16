@@ -249,7 +249,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-43" value="lung transplantation &amp;amp; biopsy" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="402.75" y="2598" width="117.25" height="46.36" as="geometry" />
+          <mxGeometry x="399.75" y="2598" width="117.25" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-45" target="S2bp39Xl8VdnLdi-VNrB-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
