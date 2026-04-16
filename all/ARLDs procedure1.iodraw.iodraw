@@ -332,10 +332,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-88" value="ARLDs" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="168.75" y="2685.8199999999997" width="47" height="46.36" as="geometry" />
+          <mxGeometry x="168.75" y="2685.82" width="61.25" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-87" value="healthy" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95.75" y="2685.8199999999997" width="61" height="46.36" as="geometry" />
+          <mxGeometry x="95.75" y="2685.82" width="54.25" height="34.18" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
