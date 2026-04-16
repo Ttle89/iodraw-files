@@ -426,42 +426,10 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="82" y="1240" width="663" height="444.36" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p1wfFmktk1Te3uoc5Mjy-89" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.5" y="1335.269090909091" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-89" value="Causal Inference&lt;div&gt;Bidirectional Two-Sample Mendelian Randomization&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="117" y="1270.8163636363636" width="595" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.5000000000002" y="1385.269090909091" as="sourcePoint" />
-            <mxPoint x="344.5000000000002" y="1400.1781818181817" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.5" y="1450.1781818181817" as="sourcePoint" />
-            <mxPoint x="344.5000000000002" y="1465.0872727272726" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344.5" y="1515.0872727272726" as="sourcePoint" />
             <mxPoint x="344.5000000000002" y="1529.9963636363634" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.5000000000002" y="1515.0872727272726" as="sourcePoint" />
-            <mxPoint x="344.5000000000002" y="1529.9963636363634" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="344.5" y="1579.9963636363634" as="sourcePoint" />
-            <mxPoint x="344.5" y="1594.9054545454544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Genetic Causal Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
