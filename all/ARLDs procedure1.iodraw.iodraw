@@ -360,7 +360,7 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-60" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.25" y="830" width="596.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Re-validation Assessment&lt;br&gt;&lt;div&gt;Spearman/Pearson&#39;s correlation test,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kaplan-Meier survival curve,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Log-rank test&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Preclinical Trajectory Reconstruction" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="920" width="279.38" height="140" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
