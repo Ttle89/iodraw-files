@@ -433,7 +433,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-89" value="Causal Inference&lt;div&gt;Bidirectional Two-Sample Mendelian Randomization&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="35" y="31.818181818181756" width="455" height="46.36363636363636" as="geometry" />
+          <mxGeometry x="35" y="30.818181818181756" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-6" source="p1wfFmktk1Te3uoc5Mjy-91" target="p1wfFmktk1Te3uoc5Mjy-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -472,7 +472,7 @@
           <mxGeometry x="35" y="354.90909090909076" width="455" height="46.36363636363636" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-51" value="Multi-omics Mechanism &amp;amp; Validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-6" vertex="1">
-          <mxGeometry x="222" y="-2" width="220" height="30" as="geometry" />
+          <mxGeometry x="222" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
