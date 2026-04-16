@@ -495,7 +495,7 @@
             <mxPoint x="414" y="2016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="82" y="2020" width="663" height="310" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-40" value="Clinical Molecular Subtyping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
