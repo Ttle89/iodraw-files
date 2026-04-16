@@ -480,7 +480,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-34" value="Single-Cell RNA Sequencing Analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="221" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-35" value="Cellular Trajectory Inference" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-35" value="Cellular Trajectory Inference&lt;div&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Monocle algorithm&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="30.75" y="293" width="287.37" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-32" target="t5G0mFXRP4Ja4X7RkUyd-33">
