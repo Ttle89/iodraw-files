@@ -495,37 +495,34 @@
             <mxPoint x="414" y="2016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="82" y="2019.9963636363636" width="663" height="310.00363636363636" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="82" y="2020" width="663" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
-          <mxGeometry y="0.003636363636360329" width="663" height="310" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-40" value="Clinical Molecular Subtyping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="329" y="2019.9963636363636" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-40" value="Clinical Molecular Subtyping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
-          <mxGeometry x="247" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-38" source="t5G0mFXRP4Ja4X7RkUyd-42" target="t5G0mFXRP4Ja4X7RkUyd-44">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-42" target="t5G0mFXRP4Ja4X7RkUyd-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-42" value="Unsupervised Clustering Subtyping&lt;div&gt;k-means unsupervised clustering&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
-          <mxGeometry x="34.25" y="30.00363636363636" width="596.75" height="50" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-42" value="Unsupervised Clustering Subtyping&lt;div&gt;k-means unsupervised clustering&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116.25" y="2050" width="596.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-38" source="t5G0mFXRP4Ja4X7RkUyd-44" target="t5G0mFXRP4Ja4X7RkUyd-45">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-44" target="t5G0mFXRP4Ja4X7RkUyd-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-44" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
-          <mxGeometry x="33" y="110.00363636363636" width="598" height="50" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-44" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2130" width="598" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-45" value="Sensitivity Analysis&lt;div&gt;&lt;div&gt;Cochran’s Q test &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Leave-one-out analysis&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
-          <mxGeometry x="351.62" y="213.00363636363636" width="279.38" height="60" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-45" value="Sensitivity Analysis&lt;div&gt;&lt;div&gt;Cochran’s Q test &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Leave-one-out analysis&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433.62" y="2233" width="279.38" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-46" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-38">
-          <mxGeometry x="33" y="213.00363636363636" width="287.37" height="60" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-46" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2233" width="287.37" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-38" source="t5G0mFXRP4Ja4X7RkUyd-44" target="t5G0mFXRP4Ja4X7RkUyd-46">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-44" target="t5G0mFXRP4Ja4X7RkUyd-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342" y="170.00363636363636" as="sourcePoint" />
-            <mxPoint x="508" y="225.00363636363636" as="targetPoint" />
+            <mxPoint x="424" y="2190" as="sourcePoint" />
+            <mxPoint x="590" y="2245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
