@@ -441,7 +441,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-8" value="Causal Association Assessment&lt;div&gt;Two-Sample MR &amp;amp;&amp;nbsp;Inverse-variance weighted (IVW)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1340" width="598" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-9" value="Sensitivity Analysis&lt;div&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;13,3,1,0,0&quot;&gt;Cochran’s Q 检验 (异质性评估)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;13,3,1,1,0&quot;&gt;MR-Egger 截距检验 (多效性评估)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;13,3,1,2,0&quot;&gt;逐一剔除法 (Leave-one-out analysis)&lt;/p&gt;&lt;/li&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-9" value="Sensitivity Analysis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433.62" y="1443" width="279.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-10" value="Reverse Causality Testing&lt;div&gt;Bidirectional MR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
