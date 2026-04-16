@@ -471,7 +471,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-32" target="t5G0mFXRP4Ja4X7RkUyd-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-32" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-32" value="Differential Expression &amp;amp; Cell Annotation&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="30.75" y="190" width="598" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-33" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
