@@ -465,7 +465,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-30" target="t5G0mFXRP4Ja4X7RkUyd-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-30" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-30" value="Cell Dimensionality Reduction &amp;amp; Clustering&lt;div&gt;PCA&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="t5G0mFXRP4Ja4X7RkUyd-25">
           <mxGeometry x="32" y="110" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="t5G0mFXRP4Ja4X7RkUyd-25" source="t5G0mFXRP4Ja4X7RkUyd-32" target="t5G0mFXRP4Ja4X7RkUyd-35">
