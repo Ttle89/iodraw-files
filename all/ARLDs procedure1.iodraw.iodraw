@@ -435,6 +435,9 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-7" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="116.25" y="1270" width="596.75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t5G0mFXRP4Ja4X7RkUyd-8" target="t5G0mFXRP4Ja4X7RkUyd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-8" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1350" width="598" height="50" as="geometry" />
         </mxCell>
@@ -443,6 +446,12 @@
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-10" value="Prognostic Survival Analysis&lt;div&gt;Kaplan-Meier analysis &amp;amp; ROC &amp;amp;&amp;nbsp;&lt;span style=&quot;font-family: Calibri; font-size: 14px; background-color: initial;&quot;&gt;Cox&amp;nbsp; regression&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1453" width="287.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="1410" as="sourcePoint" />
+            <mxPoint x="590" y="1465" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
