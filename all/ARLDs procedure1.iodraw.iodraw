@@ -363,8 +363,8 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Re-validation Assessment&lt;br&gt;&lt;div&gt;Spearman/Pearson&#39;s correlation test,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kaplan-Meier survival curve,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Log-rank test&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93.25" y="990" width="596.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="253.5" y="620" width="270" height="30" as="geometry" />
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="ARLDs Machine Learning Modeling &amp;amp; Trajectory Fitting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="228.5" y="620" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MicuZsWAX-tykQt6Oe6H-17" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
           <mxGeometry relative="1" as="geometry">
