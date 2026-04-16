@@ -453,7 +453,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-48" value="Prognostic Survival Analysis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-48" value="Prognostic Survival Analysis&lt;div&gt;Kaplan-Meier analysis &amp;amp; ROC &amp;amp;&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92.63" y="920" width="287.37" height="140" as="geometry" />
         </mxCell>
       </root>
