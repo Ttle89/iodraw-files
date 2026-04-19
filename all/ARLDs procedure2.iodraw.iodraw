@@ -353,8 +353,8 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-33" value="Cell Communication Analysis&lt;div&gt;Cell chat algorithm&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="432.37" y="1873" width="279.38" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-34" value="Single-Cell RNA Sequencing Analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="304" y="1580" width="220" height="30" as="geometry" />
+        <mxCell id="t5G0mFXRP4Ja4X7RkUyd-34" value="Single-Cell RNA Sequencing Analysis&amp;nbsp;of COPD &amp;amp; IPF Microenvironment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="209" y="1580" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-35" value="Cellular Trajectory Inference&lt;div&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Monocle algorithm&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="113.75" y="1873" width="287.37" height="60" as="geometry" />
