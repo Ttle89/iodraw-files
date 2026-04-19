@@ -107,7 +107,7 @@
         <mxCell id="MicuZsWAX-tykQt6Oe6H-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-4" source="MicuZsWAX-tykQt6Oe6H-19" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MicuZsWAX-tykQt6Oe6H-19" value="COPD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="t5G0mFXRP4Ja4X7RkUyd-4" vertex="1">
+        <mxCell id="MicuZsWAX-tykQt6Oe6H-19" value="COPD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-4" vertex="1">
           <mxGeometry x="51" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MicuZsWAX-tykQt6Oe6H-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-4" source="MicuZsWAX-tykQt6Oe6H-20" target="p1wfFmktk1Te3uoc5Mjy-11" edge="1">
