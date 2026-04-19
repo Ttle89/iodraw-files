@@ -537,11 +537,11 @@
         </mxCell>
         <mxCell id="AsW5-3J7n_0HYy1p6eEP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="AsW5-3J7n_0HYy1p6eEP-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="551" as="sourcePoint" />
+            <mxPoint x="413.13" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AsW5-3J7n_0HYy1p6eEP-4" value="&lt;div&gt;Functional Pathway Annotation&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Pathway enrichment analysis (GO &amp;amp; KEGG)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="580.05" width="597" height="51.55" as="geometry" />
+          <mxGeometry x="114.13" y="649.05" width="597" height="51.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
