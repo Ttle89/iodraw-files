@@ -37,7 +37,7 @@
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" source="p1wfFmktk1Te3uoc5Mjy-58" target="p1wfFmktk1Te3uoc5Mjy-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-58" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-58" value="Index Calculation &amp;amp; Model Interpretation&lt;div&gt;Lung Aging Index (LAI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
           <mxGeometry x="32" y="110" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" source="p1wfFmktk1Te3uoc5Mjy-60" target="MicuZsWAX-tykQt6Oe6H-48" edge="1">
