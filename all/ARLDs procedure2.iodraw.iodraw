@@ -46,7 +46,7 @@
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-60" value="Internal Model Validation&lt;div&gt;10-fold cross-validation &amp;amp; Delong test&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
           <mxGeometry x="30.75" y="190" width="598" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Preclinical Trajectory Reconstruction&lt;div&gt;Nested case-control design &amp;amp;&amp;nbsp;LOESS curve&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-77" value="Clinical Subtyping &amp;amp; Heterogeneity Analysis&lt;div&gt;Risk stratification in confirmed COPD/IPF patients&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
           <mxGeometry x="349.37" y="293" width="279.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p1wfFmktk1Te3uoc5Mjy-50" value="LAI Construction &amp;amp; Dual Clinical Efficacy Evaluation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
