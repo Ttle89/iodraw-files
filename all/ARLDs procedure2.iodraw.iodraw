@@ -31,7 +31,7 @@
         <mxCell id="MicuZsWAX-tykQt6Oe6H-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="t5G0mFXRP4Ja4X7RkUyd-5" source="p1wfFmktk1Te3uoc5Mjy-55" target="p1wfFmktk1Te3uoc5Mjy-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfFmktk1Te3uoc5Mjy-55" value="Feature Dimensionally Reduction&lt;div&gt;LightGBM &amp;amp; Variable ranking &amp;amp; Sequential forward selection&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
+        <mxCell id="p1wfFmktk1Te3uoc5Mjy-55" value="Feature Dimensionally Reduction&lt;div&gt;LightGBM &amp;amp; Variable ranking&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" vertex="1">
           <mxGeometry x="31.38" y="30" width="596.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="t5G0mFXRP4Ja4X7RkUyd-5" source="p1wfFmktk1Te3uoc5Mjy-58" target="p1wfFmktk1Te3uoc5Mjy-60" edge="1">
