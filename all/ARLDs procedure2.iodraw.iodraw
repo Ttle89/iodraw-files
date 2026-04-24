@@ -139,7 +139,7 @@
           <mxGeometry x="502.75" y="2786" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-53" value="H&amp;amp;E staining" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="369.75" y="2870" width="210" height="46.36" as="geometry" />
+          <mxGeometry x="369.75" y="2870" width="410.25" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-61" target="S2bp39Xl8VdnLdi-VNrB-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -563,7 +563,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-8" value="D28 Assessment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="632.88" y="2722.25" width="52.12" height="30" as="geometry" />
+          <mxGeometry x="633.88" y="2720.25" width="52.12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
