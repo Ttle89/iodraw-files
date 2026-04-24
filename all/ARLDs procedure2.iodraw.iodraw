@@ -111,16 +111,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S2bp39Xl8VdnLdi-VNrB-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.096;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="S2bp39Xl8VdnLdi-VNrB-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411.2427536231884" y="2717.18" as="sourcePoint" />
-            <mxPoint x="410" y="2860" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="411" y="2794" />
-              <mxPoint x="412" y="2871" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-47" value="fibrotic lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="361.87" y="2670.8199999999997" width="97" height="46.36" as="geometry" />
         </mxCell>
