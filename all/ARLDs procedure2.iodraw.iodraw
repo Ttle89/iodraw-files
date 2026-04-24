@@ -133,16 +133,16 @@
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-52" target="S2bp39Xl8VdnLdi-VNrB-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="551.75" y="2811" />
-              <mxPoint x="551.75" y="2811" />
+              <mxPoint x="551.75" y="2856" />
+              <mxPoint x="551.75" y="2856" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-52" value="healthy lung tissue" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="502.75" y="2741" width="97" height="46.36" as="geometry" />
+          <mxGeometry x="502.75" y="2786" width="97" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-53" value="H&amp;amp;E staining" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="369.75" y="2825" width="210" height="46.36" as="geometry" />
+          <mxGeometry x="369.75" y="2870" width="210" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-61" target="S2bp39Xl8VdnLdi-VNrB-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -237,30 +237,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-25" value="&lt;p&gt;Immunohistochemistry (IHC)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="292.75" y="2920" width="136" height="46.36" as="geometry" />
+          <mxGeometry x="292.75" y="2965" width="136" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-24" value="&lt;p&gt;Western-blotting (WB)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="562.75" y="2920" width="106" height="46.36" as="geometry" />
+          <mxGeometry x="562.75" y="2965" width="106" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-22" value="&lt;p&gt;Immunofluorescence (IF)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="412.75" y="2920" width="124" height="46.36" as="geometry" />
+          <mxGeometry x="412.75" y="2965" width="124" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="452.75" y="2881" as="sourcePoint" />
-            <mxPoint x="489.75" y="2930" as="targetPoint" />
+            <mxPoint x="452.75" y="2926" as="sourcePoint" />
+            <mxPoint x="489.75" y="2975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.75" y="2881" as="sourcePoint" />
-            <mxPoint x="310.75" y="2920" as="targetPoint" />
+            <mxPoint x="349.75" y="2926" as="sourcePoint" />
+            <mxPoint x="310.75" y="2965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S2bp39Xl8VdnLdi-VNrB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S2bp39Xl8VdnLdi-VNrB-53" target="S2bp39Xl8VdnLdi-VNrB-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467.75" y="2881" as="sourcePoint" />
-            <mxPoint x="593.75" y="2930" as="targetPoint" />
+            <mxPoint x="467.75" y="2926" as="sourcePoint" />
+            <mxPoint x="593.75" y="2975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t5G0mFXRP4Ja4X7RkUyd-14" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -554,10 +554,10 @@
           <mxGeometry x="637.88" y="2670.8199999999997" width="117.25" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-4" value="left lung&lt;div&gt;molecular&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619" y="2741" width="71" height="46.36" as="geometry" />
+          <mxGeometry x="619" y="2786" width="71" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-5" value="right lower lobe&lt;div&gt;pathology&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="2741" width="98.13" height="46.36" as="geometry" />
+          <mxGeometry x="700" y="2786" width="98.13" height="46.36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
