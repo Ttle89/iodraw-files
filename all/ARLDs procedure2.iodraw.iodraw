@@ -549,6 +549,14 @@
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-4" value="left lung&lt;div&gt;molecular&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="2786" width="71" height="46.36" as="geometry" />
         </mxCell>
+        <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_bxVbNVzdbSPqOhUZ9Ik-5" target="S2bp39Xl8VdnLdi-VNrB-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="749" y="2850" />
+              <mxPoint x="575" y="2850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-5" value="right lower lobe&lt;div&gt;pathology&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="2786" width="98.13" height="46.36" as="geometry" />
         </mxCell>
