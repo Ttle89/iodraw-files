@@ -547,6 +547,9 @@
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-2" value="Aged C57 BL/6 Mice" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.88" y="2598" width="117.25" height="46.36" as="geometry" />
         </mxCell>
+        <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_bxVbNVzdbSPqOhUZ9Ik-3" target="_bxVbNVzdbSPqOhUZ9Ik-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-3" value="BLM-induced IPF model" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.88" y="2670.8199999999997" width="117.25" height="46.36" as="geometry" />
         </mxCell>
@@ -554,7 +557,7 @@
           <mxGeometry x="619" y="2740" width="71" height="46.36" as="geometry" />
         </mxCell>
         <mxCell id="_bxVbNVzdbSPqOhUZ9Ik-5" value="right lower lobe&lt;div&gt;pathology&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="711.13" y="2740" width="87" height="46.36" as="geometry" />
+          <mxGeometry x="700" y="2740" width="98.13" height="46.36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
