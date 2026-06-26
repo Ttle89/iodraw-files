@@ -29,93 +29,93 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-6" value="ECMO weaning" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCE5FF;strokeColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="350" y="320" width="120" height="70" as="geometry" />
+          <mxGeometry x="350" y="319" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O5HQB3-lLdcdHCz02fMT-8" target="O5HQB3-lLdcdHCz02fMT-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="420" as="targetPoint" />
+            <mxPoint x="210" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-8" value="pure MV" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="150" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="324" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-12" target="O5HQB3-lLdcdHCz02fMT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-12" value="Phase II:&lt;br&gt;attempt to wear off ECMO" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-14" target="O5HQB3-lLdcdHCz02fMT-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-14" value="lower the breathing support (MV) settings" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="150" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-16" target="O5HQB3-lLdcdHCz02fMT-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-16" value="MV weaning" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="620" width="120" height="70" as="geometry" />
+          <mxGeometry x="150" y="619" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-18" target="O5HQB3-lLdcdHCz02fMT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-18" value="remove the tracheal tube" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="150" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="729" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-20" value="process ending" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-22" target="O5HQB3-lLdcdHCz02fMT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-22" value="lower the breathing support (ECMO) settings" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="324" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-24" target="O5HQB3-lLdcdHCz02fMT-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-24" value="MV weaning" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="420" width="120" height="70" as="geometry" />
+          <mxGeometry x="550" y="419" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-26" target="O5HQB3-lLdcdHCz02fMT-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-26" value="remove the tracheal tube (keep only the ECMO)" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-29" target="O5HQB3-lLdcdHCz02fMT-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-29" value="pure ECMO" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="619" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-31" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="325" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="324" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-32" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="325" width="40" height="30" as="geometry" />
+          <mxGeometry x="485" y="324" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-33" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="210" y="690" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="689" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O5HQB3-lLdcdHCz02fMT-16" target="O5HQB3-lLdcdHCz02fMT-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="590" as="sourcePoint" />
-            <mxPoint x="465" y="630" as="targetPoint" />
+            <mxPoint x="465" y="589" as="sourcePoint" />
+            <mxPoint x="465" y="629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-35" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="625" width="40" height="30" as="geometry" />
+          <mxGeometry x="270" y="624" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-37" target="O5HQB3-lLdcdHCz02fMT-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-37" value="Phase III:&lt;br&gt;attempt to wear off ECMO" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-39" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="490" width="70" height="30" as="geometry" />
+          <mxGeometry x="610" y="489" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O5HQB3-lLdcdHCz02fMT-24" target="O5HQB3-lLdcdHCz02fMT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-41" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="425" width="40" height="30" as="geometry" />
+          <mxGeometry x="670" y="424" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-42" value="keep ECMO+MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="525" y="70" width="110" height="30" as="geometry" />
@@ -144,16 +144,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-44" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="720" width="40" height="30" as="geometry" />
+          <mxGeometry x="670" y="719" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-47" value="keep ECMO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-48" value="process ending" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="819" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-50" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="780" width="70" height="30" as="geometry" />
+          <mxGeometry x="610" y="779" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
