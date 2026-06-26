@@ -75,7 +75,7 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-24" target="O5HQB3-lLdcdHCz02fMT-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-24" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-24" value="MV weaning" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="460" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-26" target="O5HQB3-lLdcdHCz02fMT-29">
