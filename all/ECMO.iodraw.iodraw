@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-18" value="remove the tracheal tube" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="140" y="640" width="140" height="60" as="geometry" />
+          <mxGeometry x="130" y="640" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-20" value="process ending" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="150" y="740" width="120" height="60" as="geometry" />
