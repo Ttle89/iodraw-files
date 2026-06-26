@@ -96,11 +96,14 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-33" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1">
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-16" target="O5HQB3-lLdcdHCz02fMT-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="630" as="sourcePoint" />
             <mxPoint x="465" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-35" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="375" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
