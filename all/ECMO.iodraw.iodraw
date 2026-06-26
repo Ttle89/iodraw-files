@@ -139,13 +139,13 @@
             <mxPoint x="280" y="705" as="sourcePoint" />
             <mxPoint x="500" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="730" y="790" />
+              <mxPoint x="730" y="660" />
               <mxPoint x="730" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-44" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="719" width="40" height="30" as="geometry" />
+          <mxGeometry x="695" y="630" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-47" value="keep ECMO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="230" width="90" height="30" as="geometry" />
@@ -154,7 +154,7 @@
           <mxGeometry x="560" y="719" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-50" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="779" width="70" height="30" as="geometry" />
+          <mxGeometry x="620" y="680" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
