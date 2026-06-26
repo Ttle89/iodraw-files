@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-12" value="Phase II:&lt;br&gt;attempt to wear off ECMO" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="419" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="419" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-14" target="O5HQB3-lLdcdHCz02fMT-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-22" value="lower the breathing support (ECMO) settings" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="324" width="140" height="60" as="geometry" />
+          <mxGeometry x="550" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-24" target="O5HQB3-lLdcdHCz02fMT-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
