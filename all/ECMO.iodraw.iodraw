@@ -112,7 +112,13 @@
           <mxGeometry x="550" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-39" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="70" height="30" as="geometry" />
+          <mxGeometry x="610" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="405" as="sourcePoint" />
+            <mxPoint x="560" y="405" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
