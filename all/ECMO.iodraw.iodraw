@@ -61,10 +61,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-18" value="remove the tracheal tube" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="130" y="640" width="150" height="40" as="geometry" />
+          <mxGeometry x="130" y="640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-20" value="process ending" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="719" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-22" target="O5HQB3-lLdcdHCz02fMT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-24" value="MV weaning" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="419" width="120" height="70" as="geometry" />
+          <mxGeometry x="550" y="419" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-26" target="O5HQB3-lLdcdHCz02fMT-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
