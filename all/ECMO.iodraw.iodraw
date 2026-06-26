@@ -122,13 +122,14 @@
             <mxPoint x="680" y="494.5" as="sourcePoint" />
             <mxPoint x="580" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="495" />
+              <mxPoint x="680" y="440" />
+              <mxPoint x="710" y="440" />
               <mxPoint x="710" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-41" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="424" width="40" height="30" as="geometry" />
+          <mxGeometry x="670" y="411" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-42" value="keep ECMO+MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="525" y="70" width="110" height="30" as="geometry" />
