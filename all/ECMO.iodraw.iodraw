@@ -69,7 +69,7 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-22" target="O5HQB3-lLdcdHCz02fMT-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-22" value="lower the ECMO settings" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-22" value="lower the breathing support (ECMO) settings" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-24" target="O5HQB3-lLdcdHCz02fMT-26">
