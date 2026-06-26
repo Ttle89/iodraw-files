@@ -143,8 +143,8 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-44" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="760" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-46" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="70" height="30" as="geometry" />
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-47" value="keep ECMO+MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
