@@ -55,16 +55,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-16" value="MV weaning" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="618" width="120" height="70" as="geometry" />
+          <mxGeometry x="150" y="559" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-18" target="O5HQB3-lLdcdHCz02fMT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-18" value="remove the tracheal tube" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="150" y="728" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="669" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-20" value="process ending" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="828" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="769" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-22" target="O5HQB3-lLdcdHCz02fMT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="485" y="310" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-33" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="210" y="688" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="629" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O5HQB3-lLdcdHCz02fMT-16" target="O5HQB3-lLdcdHCz02fMT-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-35" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="623" width="40" height="30" as="geometry" />
+          <mxGeometry x="270" y="564" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-37" target="O5HQB3-lLdcdHCz02fMT-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
