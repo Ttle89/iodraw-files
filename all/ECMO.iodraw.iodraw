@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O5HQB3-lLdcdHCz02fMT-1" value="LTx patients&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(ECMO+MV)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="60" width="230" height="60" as="geometry" />
+          <mxGeometry x="295" y="60" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-1" target="O5HQB3-lLdcdHCz02fMT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="670" y="465" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-42" value="keep ECMO+MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="60" width="110" height="30" as="geometry" />
+          <mxGeometry x="525" y="60" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O5HQB3-lLdcdHCz02fMT-37" target="O5HQB3-lLdcdHCz02fMT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
