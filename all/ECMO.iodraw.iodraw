@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-12" value="Phase II:&lt;br&gt;attempt to wear off ECMO" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="419" width="150" height="60" as="geometry" />
+          <mxGeometry x="135" y="409" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-14" target="O5HQB3-lLdcdHCz02fMT-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
