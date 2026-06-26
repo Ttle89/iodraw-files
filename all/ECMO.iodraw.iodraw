@@ -42,7 +42,7 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-12" target="O5HQB3-lLdcdHCz02fMT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-12" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" vertex="1" parent="1">
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-12" value="Phase II:&lt;br&gt;attempt to wear off ECMO" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="150" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-14" target="O5HQB3-lLdcdHCz02fMT-16">
