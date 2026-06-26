@@ -7,7 +7,7 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-1" target="O5HQB3-lLdcdHCz02fMT-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-2" target="O5HQB3-lLdcdHCz02fMT-4">
@@ -58,8 +58,14 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-16" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="760" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-18" target="O5HQB3-lLdcdHCz02fMT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-20" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
