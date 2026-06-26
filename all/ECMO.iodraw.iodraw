@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-37" value="Phase III:&lt;br&gt;attempt to wear off ECMO" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="640" width="150" height="60" as="geometry" />
+          <mxGeometry x="545" y="640" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-39" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="620" y="459.5" width="70" height="30" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry x="490" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-48" value="process ending" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="819" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="719" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-50" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="779" width="70" height="30" as="geometry" />
