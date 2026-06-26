@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-14" value="lower the breathing support (MV) settings" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#99CCFF;fillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="150" y="519" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-16" target="O5HQB3-lLdcdHCz02fMT-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
