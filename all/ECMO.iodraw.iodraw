@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-1" value="LTx patients&lt;div&gt;(ECMO+MV)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="60" width="190" height="60" as="geometry" />
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-1" value="LTx patients&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(ECMO+MV)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#99CCFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="60" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-1" target="O5HQB3-lLdcdHCz02fMT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
