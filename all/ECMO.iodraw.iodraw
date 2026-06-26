@@ -114,10 +114,10 @@
         <mxCell id="O5HQB3-lLdcdHCz02fMT-39" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="530" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5HQB3-lLdcdHCz02fMT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" edge="1" parent="1">
+        <mxCell id="O5HQB3-lLdcdHCz02fMT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O5HQB3-lLdcdHCz02fMT-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="405" as="sourcePoint" />
-            <mxPoint x="560" y="405" as="targetPoint" />
+            <mxPoint x="680" y="494.5" as="sourcePoint" />
+            <mxPoint x="580" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
