@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-22" value="lower the breathing support (ECMO) settings" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#99CCFF;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="324" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="324" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#99CCFF;" parent="1" source="O5HQB3-lLdcdHCz02fMT-24" target="O5HQB3-lLdcdHCz02fMT-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="280" y="310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-32" value="fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="324" width="40" height="30" as="geometry" />
+          <mxGeometry x="485" y="310" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5HQB3-lLdcdHCz02fMT-33" value="succeed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="689" width="70" height="30" as="geometry" />
