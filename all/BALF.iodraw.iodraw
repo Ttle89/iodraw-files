@@ -25,6 +25,9 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-5" value="Excluded (n=23)&lt;div&gt;Non-BALF specimens:&lt;/div&gt;&lt;div&gt;21 blood, 1 tissue, and 1 sputum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="130" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-7" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="170" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical / adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="230" width="284" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
