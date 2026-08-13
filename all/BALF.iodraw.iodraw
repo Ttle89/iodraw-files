@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="_JyS7iLz148ZQMmuxLsN">
-    <mxGraphModel dx="703" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="482" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="510" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Subgroup analyses:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;immunosuppressed (n=67; 32 vs. 35)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="610" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
