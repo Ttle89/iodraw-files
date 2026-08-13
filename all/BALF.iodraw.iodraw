@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="non-pneumonic CMV infection&lt;div&gt;(n=58)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="129" y="377" width="190" height="50" as="geometry" />
+          <mxGeometry x="115" y="377" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-14" target="vSTNy2pwkb2t8qHp3FDL-16">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-14" value="CMV pneumonia&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(n=51)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="339" y="377" width="170" height="50" as="geometry" />
+          <mxGeometry x="325" y="377" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-14">
           <mxGeometry relative="1" as="geometry">
