@@ -28,6 +28,9 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-7" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="170" height="60" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry x="386" y="230" width="284" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="420" width="170" height="60" as="geometry" />
+          <mxGeometry x="250" y="410" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
