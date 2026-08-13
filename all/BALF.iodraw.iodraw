@@ -43,13 +43,13 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical / adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="230" width="284" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="non-pneumonic CMV infection&lt;div&gt;(n=58)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="410" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-14" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-14">
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="350" as="sourcePoint" />
             <mxPoint x="115" y="420" as="targetPoint" />
