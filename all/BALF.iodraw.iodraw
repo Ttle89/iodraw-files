@@ -66,7 +66,7 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-16" target="vSTNy2pwkb2t8qHp3FDL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#F2F2F2;" vertex="1" parent="1">
           <mxGeometry x="174" y="460" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Subgroup analyses:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;immunosuppressed (n=67; 32 vs. 35)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;severe (n=21; 7 vs. 14)&lt;/div&gt;&lt;div&gt;exploratory integrated model (n=102; 54 vs. 48)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
