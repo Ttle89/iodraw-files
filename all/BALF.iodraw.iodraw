@@ -49,6 +49,12 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-14" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="350" as="sourcePoint" />
+            <mxPoint x="115" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
