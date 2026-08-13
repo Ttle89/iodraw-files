@@ -15,11 +15,11 @@
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="210" y="160" as="sourcePoint" />
             <mxPoint x="360" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-5" value="Source pathogen database records screened&lt;div&gt;(n=139)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-5" value="Excluded" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="130" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
