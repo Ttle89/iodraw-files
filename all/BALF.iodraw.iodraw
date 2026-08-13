@@ -13,6 +13,9 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-3" value="BALF records remaining&lt;div&gt;(n=116)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-5" value="Source pathogen database records screened&lt;div&gt;(n=139)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
