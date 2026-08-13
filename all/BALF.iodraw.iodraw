@@ -72,8 +72,8 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Subgroup analyses:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;immunosuppressed (n=67; 32 vs. 35)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;severe (n=21; 7 vs. 14)&lt;/div&gt;&lt;div&gt;exploratory integrated model (n=102; 54 vs. 48)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;strokeColor=#FFC21C;" vertex="1" parent="1">
           <mxGeometry x="174" y="540" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-23" value="Figure 1. Study flow and group adjudication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="50" width="60" height="30" as="geometry" />
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-23" value="Figure 1. Study flow and group adjudication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
