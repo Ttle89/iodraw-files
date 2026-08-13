@@ -18,15 +18,15 @@
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="160" as="sourcePoint" />
-            <mxPoint x="360" y="200" as="targetPoint" />
+            <mxPoint x="206" y="160" as="sourcePoint" />
+            <mxPoint x="356" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-5" value="Excluded (n=23)&lt;div&gt;Non-BALF specimens:&lt;/div&gt;&lt;div&gt;21 blood, 1 tissue, and 1 sputum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="130" width="200" height="60" as="geometry" />
+          <mxGeometry x="386" y="130" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-7" value="BALF records remaining&lt;div&gt;(n=116)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="170" height="60" as="geometry" />
+          <mxGeometry x="120" y="280" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
