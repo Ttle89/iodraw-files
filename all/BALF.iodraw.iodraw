@@ -32,16 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-7" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="170" height="60" as="geometry" />
+          <mxGeometry x="120" y="280" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206" y="260" as="sourcePoint" />
-            <mxPoint x="356" y="300" as="targetPoint" />
+            <mxPoint x="206" y="251" as="sourcePoint" />
+            <mxPoint x="356" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical / adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="220" width="204" height="80" as="geometry" />
+          <mxGeometry x="386" y="211" width="204" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-11" target="vSTNy2pwkb2t8qHp3FDL-16">
           <mxGeometry relative="1" as="geometry" />
