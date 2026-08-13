@@ -63,8 +63,14 @@
             <mxPoint x="115" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-16" target="vSTNy2pwkb2t8qHp3FDL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="510" width="280" height="60" as="geometry" />
+          <mxGeometry x="65" y="510" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="610" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
