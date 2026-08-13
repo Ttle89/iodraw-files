@@ -34,8 +34,8 @@
             <mxPoint x="356" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical/adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="230" width="200" height="60" as="geometry" />
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical / adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="230" width="284" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
