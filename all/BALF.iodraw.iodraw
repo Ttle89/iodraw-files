@@ -64,8 +64,8 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="510" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-18" value="CMV pneumonia&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(n=51)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="550" width="170" height="60" as="geometry" />
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-18" value="Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
