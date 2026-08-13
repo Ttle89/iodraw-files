@@ -8,22 +8,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-1" value="Source pathogen database records screened&lt;div&gt;(n=139)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="170" height="60" as="geometry" />
+          <mxGeometry x="159" y="80" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-3" target="vSTNy2pwkb2t8qHp3FDL-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-3" value="BALF records remaining&lt;div&gt;(n=116)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="180" width="170" height="50" as="geometry" />
+          <mxGeometry x="159" y="180" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206" y="160" as="sourcePoint" />
-            <mxPoint x="356" y="200" as="targetPoint" />
+            <mxPoint x="245" y="160" as="sourcePoint" />
+            <mxPoint x="395" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-5" value="Excluded (n=23)&lt;div&gt;Non-BALF specimens:&lt;/div&gt;&lt;div&gt;21 blood, 1 tissue, and 1 sputum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="130" width="204" height="60" as="geometry" />
+          <mxGeometry x="425" y="130" width="204" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-11">
           <mxGeometry relative="1" as="geometry" />
@@ -32,45 +32,45 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-7" value="Analytical cohort (n=109)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="270" width="170" height="40" as="geometry" />
+          <mxGeometry x="159" y="270" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206" y="250" as="sourcePoint" />
-            <mxPoint x="356" y="290" as="targetPoint" />
+            <mxPoint x="245" y="250" as="sourcePoint" />
+            <mxPoint x="395" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical / adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="210" width="204" height="80" as="geometry" />
+          <mxGeometry x="425" y="210" width="204" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-11" target="vSTNy2pwkb2t8qHp3FDL-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="non-pneumonic CMV infection&lt;div&gt;(n=58)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="350" width="170" height="50" as="geometry" />
+          <mxGeometry x="59" y="350" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-14" target="vSTNy2pwkb2t8qHp3FDL-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="509.9999999999999" as="targetPoint" />
+            <mxPoint x="354" y="509.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-14" value="CMV pneumonia&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(n=51)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="170" height="50" as="geometry" />
+          <mxGeometry x="269" y="350" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-7" target="vSTNy2pwkb2t8qHp3FDL-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="350" as="sourcePoint" />
-            <mxPoint x="115" y="420" as="targetPoint" />
+            <mxPoint x="254" y="350" as="sourcePoint" />
+            <mxPoint x="154" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-16" target="vSTNy2pwkb2t8qHp3FDL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="450" width="280" height="60" as="geometry" />
+          <mxGeometry x="104" y="450" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Subgroup analyses:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;immunosuppressed (n=67; 32 vs. 35)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;severe (n=21; 7 vs. 14)&lt;/div&gt;&lt;div&gt;exploratory integrated model (n=102; 54 vs. 48)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="550" width="280" height="80" as="geometry" />
+          <mxGeometry x="104" y="550" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
