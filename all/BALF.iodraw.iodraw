@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-10" value="Excluded (n=7)&lt;div&gt;Repeated BALF record (n=1)&lt;/div&gt;&lt;div&gt;Missing matched clinical / adjudication data (n=6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="230" width="284" height="60" as="geometry" />
+          <mxGeometry x="386" y="230" width="204" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-11" target="vSTNy2pwkb2t8qHp3FDL-16">
           <mxGeometry relative="1" as="geometry" />
