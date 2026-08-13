@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="_JyS7iLz148ZQMmuxLsN">
-    <mxGraphModel dx="771" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="260" dy="110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-3" value="BALF records remaining&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(n=116)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="200" height="40" as="geometry" />
+          <mxGeometry x="214" y="190" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vSTNy2pwkb2t8qHp3FDL-5">
           <mxGeometry relative="1" as="geometry">
