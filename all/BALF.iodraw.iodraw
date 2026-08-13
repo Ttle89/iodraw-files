@@ -49,8 +49,10 @@
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-11" value="non-pneumonic CMV infection&lt;div&gt;(n=58)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="410" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-14" target="vSTNy2pwkb2t8qHp3FDL-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vSTNy2pwkb2t8qHp3FDL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vSTNy2pwkb2t8qHp3FDL-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="509.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-14" value="CMV pneumonia&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(n=51)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="170" height="60" as="geometry" />
@@ -63,9 +65,6 @@
         </mxCell>
         <mxCell id="vSTNy2pwkb2t8qHp3FDL-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="510" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vSTNy2pwkb2t8qHp3FDL-18" value="Clinical / laboratory; CMV reads; co-pathogens; whole-lung ground-glass" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="510" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
